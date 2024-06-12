@@ -15,7 +15,7 @@ Welcome to Hamster Kombat! This guide will help you run the game in your browser
 
 To run Hamster Kombat in your browser, follow these steps:
 
-1. Install the browser extension [Resource Override](https://chrome.google.com/webstore/detail/resource-override/).
+1. Install the browser extension [Resource Override](https://chromewebstore.google.com/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii).
 2. Open the extension settings and configure it with the following data:
    - **Tab URL:** `*`
    - **From:** `https://hamsterkombat.io/js/telegram-web-app.js`
