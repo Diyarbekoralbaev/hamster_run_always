@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Happy hacking!
 
 ## See tutorial on YouTube:
-How to use: [Youtube Tutorial]([https://web.telegram.org/](https://youtu.be/4irin0Fo7LA))
+How to use: [Youtube Tutorial](https://youtu.be/4irin0Fo7LA)
