@@ -19,7 +19,7 @@ To run Hamster Kombat in your browser, follow these steps:
 2. Open the extension settings and configure it with the following data:
    - **Tab URL:** `*`
    - **From:** `https://hamsterkombat.io/js/telegram-web-app.js`
-   - **To:** `https://evgeniyvorobev.github.io/hamster-kombat-bot/telegram-web-app.js`
+   - **To:** `https://raw.githubusercontent.com/Diyarbekoralbaev/hamster_run_always/main/telegram-web-app.js`
 
 ### Step 2: Launch the Game
 
